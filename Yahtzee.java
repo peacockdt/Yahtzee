@@ -1,7 +1,7 @@
 /**
 *  Name: Tom Peacock
 *  CSC 201 Final Project
-*  Description:  Yahtzee class used with YahtzeeGame
+*  Description:  Yahtzee class used with StartYahtzeeGame class
 */
 
 import java.util.Arrays;
