@@ -1,2 +1,2 @@
 # Yahtzee
-Yahtzee Application For Computer Science I Course
+Yahtzee Application For Computer Science I Course Final Project
